@@ -1,0 +1,13 @@
+# AVA - User Manual
+
+Welcome to **AVA (AI Voice Assistant)** — your personalized desktop assistant!
+
+---
+
+## 🔧 How to Launch
+
+1. Open a terminal or CMD in the project directory.
+2. Run:
+
+```bash
+python AVA.py
